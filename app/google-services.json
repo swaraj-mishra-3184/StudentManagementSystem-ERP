@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37372864212",
+    "project_id": "college-management-b1976",
+    "storage_bucket": "college-management-b1976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37372864212:android:6f83ecddf1358fa6413d41",
+        "android_client_info": {
+          "package_name": "com.lucky.collegemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUhXsFZa-bt1WQZMEHWz-wXqY_2iD5Bfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
